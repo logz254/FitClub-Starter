@@ -28,4 +28,4 @@ const Programs = () => {
   )
 }
 
-export default Programs
+export default Programs;
