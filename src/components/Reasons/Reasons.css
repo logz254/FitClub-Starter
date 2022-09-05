@@ -84,7 +84,7 @@
 {
     width: 2.5rem;
 }
-@media screen
+@media screen and (max-width: 768px)
 {
  .Reasons
  {

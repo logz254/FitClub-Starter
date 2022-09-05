@@ -54,7 +54,7 @@
     background-color: var(--orange);
     color: white;
 }
-@media screen 
+@media screen and (max-width: 768px)
 {
     .Join
     {

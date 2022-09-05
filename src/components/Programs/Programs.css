@@ -56,7 +56,7 @@
     background: var(--planCard);
     cursor: pointer;
 }
-@media screen
+@media screen and (max-width: 768px)
 {
     .programs-header
     {
